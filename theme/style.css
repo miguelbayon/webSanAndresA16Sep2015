@@ -715,7 +715,7 @@
 	.twitter_feed li {
 		list-style:none;
 		overflow:hidden;
-		margin-bottom:30px;
+		margin-bottom:20px;
 	}
 	.twitter_feed li p {
 		margin-top: -30px;
@@ -3824,3 +3824,14 @@
 		text-transform:uppercase;
 		padding:20px;
 	}
+
+
+
+
+#footer-style-2 .widget {
+	padding-right: 20px;
+}
+
+#footer-style-2 .widget-descripcion {
+	padding-right: 100px;
+}
