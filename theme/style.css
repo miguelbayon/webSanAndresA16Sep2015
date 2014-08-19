@@ -95,14 +95,14 @@
 		font-style:italic;
 	}
 	a.navbar-brand {
-		background: url(images/logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+		
 		color: #222222 !important;
 		font-size: 35px;
 		font-weight: 400;
-		margin-top: 5px;
-		padding-left: 55px !important;
+		margin-top: 8px;
+		
 		line-height: 36px;
-		letter-spacing: -1px;
+		letter-spacing: -2px;
 	}
 	a.remove{
 		display:block;
@@ -3834,4 +3834,8 @@
 
 #footer-style-2 .widget-descripcion {
 	padding-right: 100px;
+}
+
+.navbar-brand {
+	height: 45px;
 }
