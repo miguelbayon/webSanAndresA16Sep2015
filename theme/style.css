@@ -3839,3 +3839,8 @@
 .navbar-brand {
 	height: 45px;
 }
+
+
+#slider-portada .white-wrapper {
+	padding-top: 0px !important;
+}
