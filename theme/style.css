@@ -3851,3 +3851,37 @@
 	padding-right: 10px;
 	font-size: 16px;
 }
+
+#ultimas-noticias mark {
+	font-size: 13px;
+	margin-right: 7px;
+}
+
+#ultimas-noticias ul {
+	padding-left: 20px;
+}
+
+
+#ultimas-noticias a.accordion-toggle em {
+	float: left;
+}
+
+#ultimas-noticias a.accordion-toggle span {
+	padding-left: 40px;
+	display: block;
+	margin-bottom: 10px;	
+}
+
+#owl-blog .entry:hover .magnifier {
+   opacity: 0; 
+   visibility: hidden;
+}
+
+#oferta-educativa .post-type {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#oferta-educativa .blog-carousel-desc {
+	display: none;
+}

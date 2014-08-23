@@ -2,6 +2,8 @@
  "use strict"
 	
 // OWL Carousel
+
+
 	$("#owl-testimonial").owlCarousel({
 		items : 1,
 		lazyLoad : true,
@@ -12,9 +14,11 @@
 	$("#owl-testimonial-widget, #owl-blog").owlCarousel({
 		items : 1,
 		lazyLoad : true,
+		singleItem: true,
 		navigation : true,
 		pagination : false,
-		autoPlay: false
+		autoPlay: 5000,
+		stopOnHover: true
     });
 	
 	$("#owl_blog_three_line, #owl_portfolio_two_line, #owl_blog_two_line").owlCarousel({
