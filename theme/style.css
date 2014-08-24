@@ -3885,3 +3885,25 @@
 #oferta-educativa .blog-carousel-desc {
 	display: none;
 }
+
+#contenido {
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+}
+
+#contenido-pagina {
+	padding: 0px 15px 100px 15px;
+}
+
+
+
+#contenido-pagina h4 {
+	margin: 20px 0px 5px 0px;
+	font-size: 18px;
+}
+
+
+#contenido-pagina h3 {
+	margin: 30px 0px 5px 0px;
+}

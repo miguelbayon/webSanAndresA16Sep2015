@@ -179,6 +179,7 @@ layout: default
                 <p class="lead">El IES San Andrés es un Instituto ubicado en la localidad de Villabalter, en el municipio de San Andrés del Rabanedo, a unos cinco kilómetros de la ciudad de León, que imparte Educación Secundaria Obligatoria (E.S.O.), Bachillerato y Ciclos Formativos de las familias de "Informática y Comunicaciones" y de "Administración y Gestión"</p>
                 <a class="btn btn-primary btn-lg" href="#">Conócenos</a> 
                 <a class="btn btn-dark btn-lg" href="https://sites.google.com/a/iessanandres.com/web/el-instituto/ubicacion#">Ubicación</a>
+
             </div><!-- end messagebox -->
         </div><!-- end container -->
     </section><!-- end white-wrapper -->
@@ -241,12 +242,10 @@ layout: default
                             </div>
                             <div id="libros20142015" class="accordion-body collapse">
                               <div class="accordion-inner">
-                                <p>Puedes consultar los libros de texto vigentes para todas las enseñanzas impartidas en el Centro en el siguiente enlace:</p>
-                                <ul>
-                                  <li>
-                                  <a href="/paginas/todos-los-estudios/libros/libros-2014-2015/">Libros de texto para el curso 2014-2015</a>
-                                  </li>
-                                </ul>
+
+                                {% capture libros20142015 %}{% include  contenido/libros20142015.html %}{% endcapture %}
+                                {{ libros20142015 | markdownify }}
+
                               </div>
                             </div>
                           </div>
