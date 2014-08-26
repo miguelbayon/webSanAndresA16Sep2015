@@ -14,7 +14,7 @@ categories: blog
 
 
 	<section class="white-wrapper padding-top" id="contenido">
-		<div class="container padding-top">
+		<div class="container">
         	<div class="general-title padding-top">
             	<h2>Concesión de la Carta Erasmus: ERASMUS+</h2>
                 <hr>

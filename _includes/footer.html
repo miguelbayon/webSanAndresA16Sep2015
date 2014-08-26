@@ -74,6 +74,9 @@
 <script src="/theme/js/jquery.isotope.min.js"></script>
 <script src="/theme/js/custom-portfolio.js"></script>
 
+<script src="/theme/js/jquery-ui.min.js"></script>
+<script src="/theme/js/jquery.tocify.min.js"></script>
+
 <script src="/theme/js/jquery.isotope.min.js"></script>
 <script src="/theme/js/custom-portfolio.js"></script>
 
@@ -145,5 +148,15 @@ jQuery(document).ready(function($) {
               sync: "#carousel"
           });
       });
+
+      $("#toc").tocify({ 
+              context: "#contenidoToc",
+              selectors: "h2, h3,h4,h5,h6",
+              extendPage: false,
+              history: false,
+              showAndHide: false
+      });
+
 })(jQuery);
   </script>
+

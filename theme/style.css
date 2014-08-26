@@ -3893,7 +3893,11 @@
 }
 
 #contenido-pagina {
-	padding: 0px 15px 100px 15px;
+	padding: 0px 20px 100px 20px;
+}
+
+#contenido-pagina ul {
+	margin-left: 40px;
 }
 
 
@@ -3906,4 +3910,36 @@
 
 #contenido-pagina h3 {
 	margin: 30px 0px 5px 0px;
+}
+
+#contenidoToc h2 {
+	font-size: 31px;
+	padding-top: 50px;
+	text-rendering: optimizeSpeed;
+	letter-spacing: 0.6px;
+	padding-bottom: 0;
+	font-weight: bold;	
+	text-align: center;
+}
+
+#contenidoToc h2:first-of-type {
+	padding-top: 0px;
+}
+
+
+#contenidoToc hr {
+	width: 30px;
+	margin-bottom: 0;
+	margin-top: 0;
+	border-width: 2px 0 0;	
+	border-color: #1abc9c;
+}	
+
+.mi-padding-top {
+	padding-top: 30px !important;
+}
+
+
+a.navbar-brand {
+	font-weight: bold;
 }
