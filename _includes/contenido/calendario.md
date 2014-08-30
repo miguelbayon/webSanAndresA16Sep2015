@@ -17,7 +17,7 @@
 <div class="col-lg-12">
     <div class="service_vertical_box">
         <div class="icon-container">
-                1 sep 2014
+                1 sep <br>2014
                 <span>
                     lunes
                 </span>
