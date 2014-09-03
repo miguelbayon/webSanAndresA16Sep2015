@@ -2,9 +2,16 @@
  "use strict"
 	
 
-$('.irACalendario').click(function(){
-	$('body').scrollTo('#calendario', 1000);
-});
+// ScrollTo	
+
+	$('.irACalendario').click(function(){
+		$('body').scrollTo('#calendario', 1000);
+	});
+
+
+	$('.irAContactoPie').click(function(){
+		$('body').scrollTo('#contacto-pie', 1000);
+	});
 
 
 
