@@ -1,8 +1,16 @@
 (function($) {
  "use strict"
 	
-// OWL Carousel
 
+$('.irACalendario').click(function(){
+	$('body').scrollTo('#calendario', 1000);
+});
+
+
+
+
+
+// OWL Carousel
 
 	$("#owl-testimonial").owlCarousel({
 		items : 1,
