@@ -64,32 +64,40 @@ La movilidad es uno de los ejes de este programa que se materializará en el int
 	                    
 </div><!-- end widget -->
 	            </div><!-- end col-lg-6 -->
-				<div class="col-md-6">
+	            <div class="col-md-3 col-md-offset-1">
+	            <div>
+	            	<img class="img-responsive" src="/imagenes/spainFlag.svg">
+	            	</div>
+	            </div>
+				<div class="col-md-2">
 					<div class="row">
 
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Austria.png">
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Austria.png">
 						</div>
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Czech-Republic.png">
-						</div>
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Turkey.png">
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Czech-Republic.png">
 						</div>
 
 					</div>				
 
+					<div class="row">
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Turkey.png">
+						</div>
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Hungary.png">
+						</div>
+					</div>
 
 					<div class="row">
 
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Hungary.png">
+
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Portugal.png">
 						</div>
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Portugal.png">
-						</div>
-						<div class="col-xs-4 bandera">
-							<img class="img-resposive" src="/imagenes/Poland.png">
+						<div class="col-xs-6 bandera">
+							<img class="img-responsive" src="/imagenes/Poland.png">
 						</div>
 
 					</div>				
@@ -217,6 +225,8 @@ El objetivo de este "_Zero meeting_" ha sido fomentar la comunicación entre tod
 					<img src="/imagenes/polandEurope.jpg" class="img-responsive" alt=""></li>
 				</div>
 			</div><!-- end row -->
+
+		
 		</div><!-- end container -->
 	</section><!-- end postwrapper -->
 
