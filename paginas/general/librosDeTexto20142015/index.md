@@ -449,16 +449,6 @@ Ten en cuenta que:
 
 * __Estudio__: ESO
 * __Curso__: 4
-* __Título del libro__: BIOLOGÍA Y GEOLOGÍA
-* __Autor__: E. Panadero y otros
-* __Editorial__: BRUÑO-2008
-* __ISBN__: 978-842165947-2
-
-
-#### Biología y Geología
-
-* __Estudio__: ESO
-* __Curso__: 4
 * __Título del libro__: Biología y Geología
 * __Autor__: Antonio Mª. Cabrera, Miguel S.
 * __Editorial__: OXFORD
