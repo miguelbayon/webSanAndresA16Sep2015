@@ -293,7 +293,7 @@ __Solicitudes:__ El alumnado interesado en solicitar beca Erasmus para esta prim
                     <h3><a title="" href="http://www.todofp.es/todofp/que-como-y-donde-estudiar/que-estudiar/familias/administracion-gestion/gestion-administrativa-loe.html">Ciclo Formativo de Grado Medio de "Gestión Administrativa"</a></h3>
                     <div class="blog-carousel-meta">
                         <span><i class="fa fa-calendar"></i> 2 cursos académicos</span>
-                        <span><i class="fa fa-group"></i> <a href="#">1 grupo por nivel en horario de tarde</a></span>
+                        <span><i class="fa fa-group"></i> <a href="#">1 grupo por nivel en horario de mañana</a></span>
                     </div><!-- end blog-carousel-meta -->
                 </div><!-- end blog-carousel-header -->
                 <div class="blog-carousel-desc">
