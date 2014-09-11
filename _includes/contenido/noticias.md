@@ -7,20 +7,52 @@
                     <div class="accordion" id="accordion2">
 
 
+
+
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
+<div class="accordion-group">
+  <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
+
+    href="#provisionales2014fp">
+
+<em class="fa fa-plus icon-fixed-width"></em><span>Proceso de admisión en Ciclos Formativos en el período extraordinario de septiembre</span>
+    </a> 
+  </div>
+  <div class="accordion-body collapse" 
+
+    id="provisionales2014fp">
+    
+<div class="accordion-inner" markdown="1">
+
+Con fecha del jueves, 11 de septiembre de 2014, se han publicado las listas provisonales de alumnos admitidos en Ciclos Formativos en el período extraordinario. Puedes consultar dichas listas en el siguiente enlace (selecciona en la parte superior del documento la pestaña adecuada al Ciclo Formativo en el que estés interesado):
+
+* [Consultar documento](https://docs.google.com/spreadsheets/d/1iIFjidXr4zB6o8qsA4kfyXS8487Q2Uda5T_020xLWPI/pubhtml)
+
+</div>
+</div>
+</div>
+<!-- ************* FIN DE NOTICIA *********** -->
+
+
+
+
+
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
 <div class="accordion-group">
   <div class="accordion-heading">
     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
 
     href="#becasErasmusOleada12014">
 
-      <em class="fa fa-plus icon-fixed-width"></em><span>Primera oleada de becas Erasmus</span>
+<em class="fa fa-plus icon-fixed-width"></em><span>Primera oleada de becas Erasmus</span>
     </a> 
   </div>
   <div class="accordion-body collapse" 
 
     id="becasErasmusOleada12014">
     
-    <div class="accordion-inner" markdown="1">
+<div class="accordion-inner" markdown="1">
 
 Se adjunta documento con el procedimiento y la información relativa a la __primera oleada de movilidades__ correspondientes al Programa __“ERASMUS+FP-CYL: movilidad de estudiantes de educación superior de FP en Castilla y León”__ a llevar a cabo en el curso académico 2014/2015.
 
@@ -45,6 +77,7 @@ __Solicitudes:__ El alumnado interesado en solicitar beca Erasmus para esta prim
 </div>
 </div>
 </div>
+<!-- ************* FIN DE NOTICIA *********** -->
 
 
 
