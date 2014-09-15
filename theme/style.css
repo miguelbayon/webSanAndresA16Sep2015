@@ -3861,6 +3861,11 @@
 	padding-left: 20px;
 }
 
+#ultimas-noticias {
+	padding-right: 20px;
+}
+
+
 
 #ultimas-noticias a.accordion-toggle em {
 	float: left;
