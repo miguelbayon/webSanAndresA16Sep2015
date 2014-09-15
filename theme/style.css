@@ -271,7 +271,7 @@
 		margin: 0;
 	}
 	.header_center .logo_center {
-		padding:20px 0 30px !important
+		padding:20px 0 20px !important
 	}
 	#header-style-1 {
 		padding:24px 0;
@@ -4011,3 +4011,39 @@ a.navbar-brand {
 	padding: 1px 3px;
 	font-size: 13px;
 }
+
+
+.navbar-brand {
+	height: auto !important;
+}
+
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+#escudo {
+	width: 70%;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+#escudo {
+	width: 40%;
+}
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+#escudo {
+	width: 50%;
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+#escudo {
+	width: 60%;
+}
+
+}
+
