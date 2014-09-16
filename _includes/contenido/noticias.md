@@ -15,7 +15,7 @@
 
     href="#provisionales2014fp">
 
-<em class="fa fa-plus icon-fixed-width"></em><span>Peticiones del alumnado de cambio de grupo o de optativas</span>
+<em class="fa fa-plus icon-fixed-width"></em><span><mark>Hasta el 26 sep</mark>Peticiones del alumnado de cambio de grupo o de optativas</span>
     </a> 
   </div>
   <div class="accordion-body collapse" 
@@ -28,7 +28,9 @@ Aquellos alumnos que deseen realizar un cambio de grupo o de optativa pueden sol
 
 * [Solicitud de cambio de grupo u optativa](https://podio.com/webforms/9393396/690816)
 
-Para que se considere una solicitud de cambio está debe estar lo suficientemente razonada. Los tutores informarán a los alumnos de si su solicitud de cambio ha sido autorizada o no.
+Para que se considere una solicitud de cambio está debe estar lo suficientemente razonada. No se atenderán cambios solicitados después del 26 de septiembre. 
+
+Los tutores informarán a los alumnos de si su solicitud de cambio ha sido autorizada o no.
 
 </div>
 </div>
