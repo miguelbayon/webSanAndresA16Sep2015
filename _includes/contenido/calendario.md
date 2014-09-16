@@ -238,6 +238,30 @@
     <div class="col-lg-12">
         <div class="service_vertical_box">
             <div class="icon-container">
+                18 sep <br>2014
+                <span>
+                jueves
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Calificaciones de Selectividad
+
+* __17:00 horas__: Publicación de las calificaciones de Selectividad.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
                 19 sep <br>2014
                 <span>
                 viernes
@@ -245,9 +269,10 @@
             </div>
             <div class="evento-calendario" markdown="1">
 
-### Fin del plazo para solicitar becas Erasmus
+### Solicitudes de becas Erasmus y recogida de tarjetas Selectividad
 
 * Fin del plazo para la cumplimentación del formulario y entrega de documentación de la beca Erasmus [para la primera oleada](/index.html#becasErasmusOleada12014).
+* __A partir de las 12:00 horas__: Recogida en Jefatura de Estudios de las tarjetas de Selectividad.
 
 </div>                                                
 </div><!-- end service_vertical_box -->
