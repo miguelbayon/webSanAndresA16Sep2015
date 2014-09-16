@@ -25,9 +25,13 @@
     
 <div class="accordion-inner" markdown="1">
 
-Con fecha del jueves, 11 de septiembre de 2014, se han publicado las listas provisonales de alumnos admitidos en Ciclos Formativos en el período extraordinario. Puedes consultar dichas listas en el siguiente enlace (selecciona en la parte superior del documento la pestaña adecuada al Ciclo Formativo en el que estés interesado):
+Con fecha de jueves, 11 de septiembre de 2014, se han publicado las listas __provisonales__ de alumnos admitidos en Ciclos Formativos en el período extraordinario. Puedes consultar dichas listas en el siguiente enlace (selecciona en la parte superior del documento la pestaña adecuada al Ciclo Formativo en el que estés interesado):
 
-* [Consultar documento](https://docs.google.com/spreadsheets/d/1iIFjidXr4zB6o8qsA4kfyXS8487Q2Uda5T_020xLWPI/pubhtml)
+* [Consultar listas provisionales](https://docs.google.com/spreadsheets/d/1iIFjidXr4zB6o8qsA4kfyXS8487Q2Uda5T_020xLWPI/pubhtml)
+
+Con fecha de martes, 16 de septiembre de 2014, se han publicado las listas __definitivas__ de alumnos admitidos en Ciclos Formativos en el período extraordinario. Puedes consultar dichas listas en el siguiente enlace (selecciona en la parte superior del documento la pestaña adecuada al Ciclo Formativo en el que estés interesado):
+
+* [Consultar listas definitivas](https://docs.google.com/spreadsheets/d/1Yf9hDmG1e2ZTK8qwmOkqxox0GqtH1SI0Kud7we0PluA/pubhtml)
 
 </div>
 </div>

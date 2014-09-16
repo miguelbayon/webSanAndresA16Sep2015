@@ -178,6 +178,31 @@
     <div class="col-lg-12">
         <div class="service_vertical_box">
             <div class="icon-container">
+                16 sep <br>2014
+                <span>
+                martes
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Admisión en FP
+
+* Publicación de las [listas definitivas](https://docs.google.com/spreadsheets/d/1Yf9hDmG1e2ZTK8qwmOkqxox0GqtH1SI0Kud7we0PluA/pubhtml) de alumnos admitidos en Ciclos Formativos en el período extraordinario.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+********************************************************* -->
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
                 17 sep <br>2014
                 <span>
                 miércoles
