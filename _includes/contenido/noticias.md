@@ -2,9 +2,38 @@
     <div class="container">
         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12" id="ultimas-noticias">
             <div class="widget">
-                <h3>NOTICIAS</h3>
+                <h3>NOTICIAS Y ACTUALIDAD</h3>
                 <div id="accordion-first" class="clearfix">
                     <div class="accordion" id="accordion2">
+
+
+
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
+<div class="accordion-group">
+  <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
+
+    href="#provisionales2014fp">
+
+<em class="fa fa-plus icon-fixed-width"></em><span>Peticiones del alumnado de cambio de grupo o de optativas</span>
+    </a> 
+  </div>
+  <div class="accordion-body collapse" 
+
+    id="provisionales2014fp">
+    
+<div class="accordion-inner" markdown="1">
+
+Aquellos alumnos que deseen realizar un cambio de grupo o de optativa pueden solocitarlo a través del siguiente enlace:
+
+* [Solicitud de cambio de grupo u optativa](https://podio.com/webforms/9393396/690816)
+
+Para que se considere una solicitud de cambio está debe estar lo suficientemente razonada. Los tutores informarán a los alumnos de si su solicitud de cambio ha sido autorizada o no.
+
+</div>
+</div>
+</div>
+<!-- ************* FIN DE NOTICIA *********** -->
 
 
 
