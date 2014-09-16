@@ -261,6 +261,82 @@
 
 
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
+                2 oct <br>2014
+                <span>
+                jueves
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Reuniones con padres
+
+* Reunión con padres de alumnos de 1º y 2º de ESO.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+********************************************************* -->
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
+                3 oct <br>2014
+                <span>
+                viernes
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Jornada de convivencia de los alumnos de 1º de ESO
+
+* __08:35 a 14:25 horas__: Caminata a la Virgen del Camino, visita al Santuario y a la Base Aerea y para terminar, juegos dirigidos por los alumnos de Bachillerato de Psicologia.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+********************************************************* -->
+
+
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
+                9 oct <br>2014
+                <span>
+                jueves
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Reuniones con padres
+
+* Reunión con padres de alumnos de 3º y 4º de ESO, de Bachillerato y de Formación Profesional.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+********************************************************* -->
+
+
+
 <div class="clearfix"></div>
 </div><!-- end col-->
 
