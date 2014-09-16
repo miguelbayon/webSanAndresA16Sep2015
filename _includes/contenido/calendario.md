@@ -187,8 +187,17 @@
 
 ### Inicio del curso en ESO, Bachillerato y 2º de Ciclos Formativos
 
-* Recepción de alumnos de ESO, BAchillerato y 2º de Ciclos Formativos conforme horario que se expondrá en la puerta del Centro.
-
+* __10:00 horas__: Recogida de los alumnos por el transporte escolar en las diferentes paradas.
+* __10:35 horas__: Recepción de alumnos de 1º de ESO en el Salón de Actos por el Equipo Directivo y los tutores.
+* __10:35 a 11:15 horas__: Recepción de alumnos de 2º, 3º, 4º de ESO por el tutor en el aula correspondiente.
+* __11:15 a 11:45 horas__: Recreo para alumnos de 2º, 3º y 4º de ESO.
+* __11:45 horas__: Desarrollo normal de las clases en 2º, 3º y 4º de ESO conforme a horario.
+* __11:45 horas__: Recepción de alumnos de Bachillerato y 2º de Ciclos Formativos:
+    * __1º Bachillerato__: Recepción en su aula normal por el tutor hasta las 12:35. Después, desarrollo normal conforme horario.
+    * __2º Bachillerato__: Recepción en el Salón de Actos por Jefatura de Estudios y tutores hasta la 12:35. Después, desarrollo normal conforme horario.
+    * __2º de Ciclos Formativos__: Recepción en su aula normal por el tutor hasta las 12:35. Después, desarrollo normal conforme horario.
+* __14:25 horas__: Salida del transporte escolar.
+* __15:00 a 15:50 horas__: Recepción de alumnos de 2º curso del Ciclo Formativo de "Administración y Finanzas". Después, desarrollo normal conforme horario.
 </div>                                                
 </div><!-- end service_vertical_box -->
 </div><!-- end col-lg-12 -->
@@ -239,7 +248,9 @@
 
 ### Inicio del curso en 1º de Ciclos Formativos
 
-* Recepción de alumnos de 1º de Ciclos Formativos conforme horario que se expondrá en la puerta del Centro.
+* __08:35 a 9:25 horas__: Recepción de los alumnos de 1º de Ciclos Formativos en el Salón de Actos por el Equipo Directivo y tutores.
+* __09:25 horas__: Desarrollo normal de las clases conforme horario.
+* __15:00 horas__: Recepción de los alumnos de 1º del Ciclo Formativo de "Administración y Finanzas" en el Salón de Actos. por el Equipo Directivo y tutor.  Después, desarrollo normal conforme horario.
 
 </div>                                                
 </div><!-- end service_vertical_box -->
