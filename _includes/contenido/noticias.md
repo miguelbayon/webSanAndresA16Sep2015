@@ -21,7 +21,7 @@
   </div>
   <div class="accordion-body collapse" 
 
-    id="#formualrioCursos2014">
+    id="formualrioCursos2014">
     
 <div class="accordion-inner" markdown="1">
 
