@@ -13,14 +13,14 @@
   <div class="accordion-heading">
     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
 
-    href="#provisionales2014fp">
+    href="#cambioGrupo2014">
 
 <em class="fa fa-plus icon-fixed-width"></em><span><mark>Hasta el 26 sep</mark>Peticiones del alumnado de cambio de grupo o de optativas</span>
     </a> 
   </div>
   <div class="accordion-body collapse" 
 
-    id="provisionales2014fp">
+    id="cambioGrupo2014">
     
 <div class="accordion-inner" markdown="1">
 
