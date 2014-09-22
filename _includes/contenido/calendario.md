@@ -11,6 +11,17 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
 
+<!-- ********************* INICIO DE CALENDARIO COLAPSADO **********************************************-->
+<div class="accordion" id="accordion-calendario">
+    <div class="accordion-group">
+
+    <div class="accordion-body collapse" 
+
+    id="eventos-colapsados">
+    
+        <div class="accordion-inner">
+
+
 <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                     PRINCIPIO DE UN DIA DEL CALENDARIO
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -280,6 +291,36 @@
 <!-- ********************************************************
                          FIN DE DIA
 ********************************************************* -->
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+        <div class="accordion-heading">
+            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion-calendario"
+
+            href="#eventos-colapsados">
+
+<em class="fa fa-plus icon-fixed-width"></em><span>Mostrar eventos pasados</span>
+            </a> 
+        </div>
+</div>
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ************* FIN DE ACORDEON CON EVENTOS COLAPSADOS *********** -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+
+
 
 
 

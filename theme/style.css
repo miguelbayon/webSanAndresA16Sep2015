@@ -4023,6 +4023,17 @@ a.navbar-brand {
 }
 
 
+#accordion-calendario .accordion-heading {
+	padding: 0px 0px 20px 15px;
+}
+
+#accordion-calendario .accordion-toggle span {
+	padding-left: 10px;
+}
+
+
+
+
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 #escudo {
