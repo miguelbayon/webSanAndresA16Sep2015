@@ -386,6 +386,31 @@
 ********************************************************* -->
 
 
+<!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    PRINCIPIO DE UN DIA DEL CALENDARIO
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <div class="col-lg-12">
+        <div class="service_vertical_box">
+            <div class="icon-container">
+                10 oct <br>2014
+                <span>
+                viernes
+                </span>
+            </div>
+            <div class="evento-calendario" markdown="1">
+
+### Donación de sangre
+
+* __10:30 a 13:30 horas__: Acto de donación de sangre en el IES San Andrés.
+
+</div>                                                
+</div><!-- end service_vertical_box -->
+</div><!-- end col-lg-12 -->
+<!-- ********************************************************
+                         FIN DE DIA
+********************************************************* -->
+
+
 
 <div class="clearfix"></div>
 </div><!-- end col-->
