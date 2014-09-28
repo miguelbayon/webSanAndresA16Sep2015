@@ -8,6 +8,33 @@
 
 
 
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
+<div class="accordion-group">
+  <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
+
+    href="#cambios2014">
+
+<em class="fa fa-plus icon-fixed-width"></em><span>Resolución de los cambios de grupo y de optativas solicitados por el alumnado</span>
+    </a> 
+  </div>
+  <div class="accordion-body collapse" 
+
+    id="cambios2014">
+    
+<div class="accordion-inner" markdown="1">
+
+A través del siguiente enlace podéis consultar la resolución de todos los cambios de grupos y de optativas que que se han solicitado en este inicio de curso:
+
+* [Resolución de los cambios de grupo y de optativas](https://drive.google.com/file/d/0B4jaZeMGL7HsckZ5MF81aGFlM1E/view?usp=sharing)
+
+
+</div>
+</div>
+</div>
+<!-- ************* FIN DE NOTICIA *********** -->
+
+
 
 <!-- ********************* INICIO DE NOTICIA **********************************************-->
 <div class="accordion-group">
@@ -66,7 +93,7 @@ Todos aquellos que deseeis inscribiros debéis hacerlo utilizando el siguiente e
 
 Aquellos alumnos que deseen realizar un cambio de grupo o de optativa pueden solocitarlo a través del siguiente enlace:
 
-* [Solicitud de cambio de grupo u optativa](https://podio.com/webforms/9393396/690816)
+* [Solicitud de cambio de grupo u optativa]()
 
 Para que se considere una solicitud de cambio está debe estar lo suficientemente razonada. No se atenderán cambios solicitados después del 26 de septiembre. 
 
