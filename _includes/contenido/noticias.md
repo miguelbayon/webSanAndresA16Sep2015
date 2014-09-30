@@ -13,6 +13,39 @@
   <div class="accordion-heading">
     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
 
+    href="#solicitudBecasErasmus2014">
+
+<em class="fa fa-plus icon-fixed-width"></em><span><mark>hasta el 7 oct</mark>Solicitud de Becas Erasmus+ para el curso 2014-2015</span>
+    </a> 
+  </div>
+  <div class="accordion-body collapse" 
+
+    id="solicitudBecasErasmus2014">
+    
+<div class="accordion-inner" markdown="1">
+
+Todos aquellos alumnos que deseen solicitar una beca Erasmus+ para el curso 2014-2015 deben descargar y rellenar el siguiuente documento y entregarlo antes de l 7 de octubre a la profesora responsable del programa, Julita González:
+
+* [Solicitud de participación en el “Programa Europeo de Prácticas en Empresas Erasmus+ León"](https://drive.google.com/file/d/0B4jaZeMGL7HsS2Q3dEpNZDFMMnZjdGt4NTlwTUdubzFCZHJz/view?usp=sharing)
+
+Se recomienda consultar el siguiente documento para información adicional:
+
+* [“Programa Europeo de Prácticas en Empresas Erasmus+ León"](https://drive.google.com/file/d/0B4jaZeMGL7HsLUNwQzVzb1lERks4VXlLWWtzR1Y2R3Q0NEFN/view?usp=sharing)
+
+
+</div>
+</div>
+</div>
+<!-- ************* FIN DE NOTICIA *********** -->
+
+
+
+
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
+<div class="accordion-group">
+  <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
+
     href="#cambios2014">
 
 <em class="fa fa-plus icon-fixed-width"></em><span>Resolución de los cambios de grupo y de optativas solicitados por el alumnado</span>
