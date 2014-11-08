@@ -4032,6 +4032,10 @@ a.navbar-brand {
 }
 
 
+#header-style-1 .yamm .yamm-content {
+	padding: 0px 30px 20px 30px;
+}
+
 
 
 /* Extra small devices (phones, less than 768px) */
@@ -4062,4 +4066,7 @@ a.navbar-brand {
 }
 
 }
+
+
+
 
