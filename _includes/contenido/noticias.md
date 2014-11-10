@@ -13,6 +13,36 @@
   <div class="accordion-heading">
     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
 
+    href="#eleccionesConsejo2014">
+
+<em class="fa fa-plus icon-fixed-width"></em><span>Elecciones al Consejo Escolar 2014-2015</span>
+    </a> 
+  </div>
+  <div class="accordion-body collapse" 
+
+    id="eleccionesConsejo2014">
+    
+<div class="accordion-inner" markdown="1">
+
+* [Lista de candidaturas definitiva](https://drive.google.com/file/d/0B4jaZeMGL7HsYWlSNjRDQkJNRjg/view?usp=sharing)
+* [Lista de candidaturas provisional](https://drive.google.com/file/d/0B4jaZeMGL7HsZHVYNF8zRGdDZVk/view?usp=sharing)
+* [Acta de la sesión constitutiva de la Junta Electoral](https://drive.google.com/file/d/0B4jaZeMGL7HsbUVod0ZPREl5MjQ/view?usp=sharing)
+* [Convocatoria de elecciones](https://drive.google.com/file/d/0B4jaZeMGL7HseXdTNUIyNFNEbG8/view?usp=sharing)
+* [BOCYL 29/09/2014](https://drive.google.com/file/d/0B4jaZeMGL7Hsall3ZnZyNGk3U0k/view?usp=sharing) (Resolución de 16 de septiembre de 2014, de la Dirección General de Innovación Educativa y Formación del Profesorado, relativa al proceso para la elección y renovación de los miembros de los consejos escolares de los centros docentes sostenidos con fondos públicos a celebrar en el primer trimestre del curso escolar 2014/2015)
+
+</div>
+</div>
+</div>
+<!-- ************* FIN DE NOTICIA *********** -->
+
+
+
+
+<!-- ********************* INICIO DE NOTICIA **********************************************-->
+<div class="accordion-group">
+  <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2"
+
     href="#solicitudBecasErasmus2014">
 
 <em class="fa fa-plus icon-fixed-width"></em><span><mark>hasta el 7 oct</mark>Solicitud de Becas Erasmus+ para el curso 2014-2015</span>
