@@ -24,6 +24,10 @@
     
 <div class="accordion-inner" markdown="1">
 
+* Sorteo de mesas electorales:
+  * [Mesas para alumnos](https://drive.google.com/file/d/0B4jaZeMGL7HsMDBiT3FkdjcyMmM/view?usp=sharing)
+  * [Mesas para profesores](https://drive.google.com/file/d/0B4jaZeMGL7HsQVcxaGRrRHJELUE/view?usp=sharing)
+  * [Mesas para padres y madres](https://drive.google.com/file/d/0B4jaZeMGL7HsenZqRWt0OHVaRUk/view?usp=sharing)
 * [Lista de candidaturas definitiva](https://drive.google.com/file/d/0B4jaZeMGL7HsYWlSNjRDQkJNRjg/view?usp=sharing)
 * [Lista de candidaturas provisional](https://drive.google.com/file/d/0B4jaZeMGL7HsZHVYNF8zRGdDZVk/view?usp=sharing)
 * [Acta de la sesión constitutiva de la Junta Electoral](https://drive.google.com/file/d/0B4jaZeMGL7HsbUVod0ZPREl5MjQ/view?usp=sharing)
