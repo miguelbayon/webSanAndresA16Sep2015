@@ -256,3 +256,7 @@ img.rsImg {
 	z-index: 20;
 	background: url(blank.gif);
 }
+
+.colorBlue {
+	color: #364C63 !important;
+}

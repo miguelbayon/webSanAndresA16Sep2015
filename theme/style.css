@@ -4050,3 +4050,7 @@ a.navbar-brand {
 	margin-bottom: -5px;
 	margin-top: -25px;
 }
+
+.tparrows {
+	display: none;
+}
