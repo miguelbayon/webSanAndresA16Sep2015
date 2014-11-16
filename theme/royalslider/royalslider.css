@@ -260,3 +260,16 @@ img.rsImg {
 .colorBlue {
 	color: #364C63 !important;
 }
+
+.colorWhite {
+	color: #FFFFFF !important;
+}
+
+.colorBlack {
+	color: #000000 !important;
+}
+
+.letraGrande {
+	font-size: 40px;
+	font-weight: bold;
+}
