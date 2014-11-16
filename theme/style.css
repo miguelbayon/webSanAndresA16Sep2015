@@ -4063,3 +4063,11 @@ a.navbar-brand {
 .shop_title {
 text-align: center;
 }
+
+
+#accordion-first .accordion-heading .accordion-toggle > em {
+height: 24px;
+line-height: 25px;
+width: 24px;
+margin-top: 1px;
+}
