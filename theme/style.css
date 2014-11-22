@@ -4071,3 +4071,7 @@ line-height: 25px;
 width: 24px;
 margin-top: 1px;
 }
+
+.padding-bottom-50 {
+	padding-bottom: 50px;
+}
