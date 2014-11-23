@@ -25,13 +25,13 @@
                                             <li><a href="https://sites.google.com/a/iessanandres.com/web/el-instituto/ubicacion">Ubicación</a></li>
                                             <li><a href="http://www.educa.jcyl.es/es/informacion/calendario-escolar-2014-2015">Calendario Escolar</a></li>          
                                             <li><a href="/index.html#calendario">Calendario del Centro</a></li>                                                                                        
-                                            <li><a href="https://sites.google.com/a/iessanandres.com/web/el-instituto/biblioteca">Biblioteca</a></li>
+                                            <li><a id="link-biblioteca" href="" data-toggle="modal" data-target="#ventanaModal">Biblioteca</a></li>
                                             <li><a href="https://podio.com/intranetiessanandrescom/ies-intranet">Intranet</a></li>                                            
 
                                         </ul>
                                         <ul class="col-sm-4">
                                             <li><h3><i class="fa fa-users"></i> Órganos</h3></li>
-                                            <li><a href="https://sites.google.com/a/iessanandres.com/web/comunidad-educativa/equipo-directivo">Equipo Directivo</a></li>
+                                            <li><a id="link-equipoDirectivo" href="" data-toggle="modal" data-target="#ventanaModal">Equipo Directivo</a></li>
                                             <li><a href="https://sites.google.com/a/iessanandres.com/web/comunidad-educativa/departamentos-y-familias-profesionales">Depatamentos y profesorado</a></li>
                                             <li><a href="https://sites.google.com/a/iessanandres.com/web/comunidad-educativa/consejo-escolar">Consejo Escolar</a></li>
                                         </ul>
@@ -145,6 +145,20 @@
 </header><!-- end header-style-1 -->
 
 
+
+<script>
+$(document).ready(function(){
+  $("#link-equipoDirectivo").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Equipo Directivo");    
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/varios/index.html #equipoDirectivo");
+  });
+
+  $("#link-biblioteca").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Biblioteca");    
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/varios/index.html #biblioteca");
+  });  
+});
+</script>   
 
 
 <div class="modal fade" id="ventanaModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
