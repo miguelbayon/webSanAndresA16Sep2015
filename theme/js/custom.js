@@ -37,7 +37,7 @@
     });
 	
 	$("#owl_blog_three_line, #owl_portfolio_two_line, #owl_blog_two_line").owlCarousel({
-		items : 2,
+		items : 4,
 		lazyLoad : true,
 		navigation : true,
 		pagination : false,
