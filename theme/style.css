@@ -4102,3 +4102,8 @@ padding: 20px 40px;
 .modal-body ul {
 margin-left: 30px;
 }
+
+#eventos h3 {
+	margin: 0px;
+	text-align: center;
+}
