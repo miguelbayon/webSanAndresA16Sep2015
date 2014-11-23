@@ -12,8 +12,8 @@
 <script>
 $(document).ready(function(){
   $("#link-eleccionesConsejoEscolar-2014").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Elecciones al Consejo Escolar 2014-2015");    
     $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #eleccionesConsejoEscolar-2014");
-    $("#mi-ventana-modal #myModalLabel").html("Elecciones al Consejo Escolar 2014-2015");
   });
 });
 </script>         
@@ -33,8 +33,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-erasmusSolicitud-2014").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Solicitud de Becas Erasmus+ para el curso 2014-2015");    
     $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #erasmusSolicitud-2014");
-    $("#mi-ventana-modal #myModalLabel").html("Solicitud de Becas Erasmus+ para el curso 2014-2015");
   });
 });
 </script>         
@@ -53,8 +53,9 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-resolucionCambiosGrupos-2014").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Resolución de los cambios de grupo y de optativas solicitados por el alumnado");    
     $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #resolucionCambiosGrupos-2014");
-    $("#mi-ventana-modal #myModalLabel").html("Resolución de los cambios de grupo y de optativas solicitados por el alumnado");
+
   });
 });
 </script>         
@@ -74,8 +75,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-inscripcionCursos-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #inscripcionCursos-2014");
     $("#mi-ventana-modal #myModalLabel").html("Inscripción en cursos de formación para profesores");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #inscripcionCursos-2014");
   });
 });
 </script>  
@@ -94,8 +95,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-admisionFP-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #admisionFP-2014");
     $("#mi-ventana-modal #myModalLabel").html("Proceso de admisión en septiembre para FP");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #admisionFP-2014");
   });
 });
 </script>  
@@ -115,8 +116,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-eramusPrimeraOleada-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #eramusPrimeraOleada-2014");
     $("#mi-ventana-modal #myModalLabel").html("Primera oleada de becas Erasmus");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #eramusPrimeraOleada-2014");
   });
 });
 </script>        
@@ -137,8 +138,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-becasmec-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #becasmec-2014");
     $("#mi-ventana-modal #myModalLabel").html("Convocatoria de becas MEC para el curso 2014-2015");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #becasmec-2014");
   });
 });
 </script>        
@@ -168,8 +169,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-admision-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #admision-2014");
     $("#mi-ventana-modal #myModalLabel").html("Admisión de nuevos alumnos para el curso 2014-2015");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #admision-2014");
   });
 });
 </script>
@@ -199,8 +200,8 @@ $(document).ready(function(){
 <script>
 $(document).ready(function(){
   $("#link-releo-2014").click(function(){
-    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #releo-2014");
     $("#mi-ventana-modal #myModalLabel").html("Programa Releo");
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/index.html #releo-2014");
   });
 });
 </script>
