@@ -20,7 +20,7 @@
 // OWL Carousel
 
 	$("#owl-testimonial").owlCarousel({
-		items : 1,
+		singleItem: true,
 		lazyLoad : true,
 		navigation : false,
 		autoPlay: true
