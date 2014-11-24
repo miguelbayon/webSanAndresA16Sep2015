@@ -6,6 +6,7 @@ layout: modal
 
 
 <div id="eleccionesConsejoEscolar-2014" markdown="1">
+* Acta de proclamación de candidatos ([página 1](https://drive.google.com/file/d/0B4jaZeMGL7HsLUdzUWtfTGFlNnM/view?usp=sharing) y [2](https://drive.google.com/file/d/0B4jaZeMGL7HsZU85Snh5NjZhazg/view?usp=sharing))
 * Sorteo de mesas electorales:
   * [Mesas para alumnos](https://drive.google.com/file/d/0B4jaZeMGL7HsMDBiT3FkdjcyMmM/view?usp=sharing)
   * [Mesas para profesores](https://drive.google.com/file/d/0B4jaZeMGL7HsQVcxaGRrRHJELUE/view?usp=sharing)
