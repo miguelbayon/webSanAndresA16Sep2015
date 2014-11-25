@@ -1,5 +1,9 @@
 
+<!--
 
+    Las imagenes de los elementos son de 400 x 393 pixeles
+
+-->
 
 
 
@@ -412,20 +416,29 @@
 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
     <div class="shop_item">
         <div class="entry">
-            <img src="/imagenes/certificacionTIC42.jpg" alt="" class="img-responsive">
+            <img src="/imagenes/bibliotecaCuadrado.jpg" alt="" class="img-responsive">
             <div class="magnifier">
                 <div class="buttons">
-                    <a class="st btn btn-default" href="http://www.educa.jcyl.es/es/programas/certificacion-aplicacion-tic.ficheros/495231-BOCYL-D-09062014-23.pdf">Leer más</a>
+                    <a class="st btn btn-default link-biblioteca" href="" data-toggle="modal" data-target="#ventanaModal">Leer más</a>
                 </div><!-- end buttons -->
             </div><!-- end magnifier -->
         </div><!-- end entry -->
         <div class="shop_desc">
             <div class="shop_title">
-                <a href="http://www.educa.jcyl.es/es/programas/certificacion-aplicacion-tic.ficheros/495231-BOCYL-D-09062014-23.pdf"><span>Certificación TIC</span></a>
+                <a href="" class="link-biblioteca" data-toggle="modal" data-target="#ventanaModal"><span>Biblioteca</span></a>
             </div>
         </div><!-- end shop_desc -->
     </div><!-- end item -->
 </div><!-- end col-lg-3 -->
+
+<script>
+$(document).ready(function(){
+  $(".link-biblioteca").click(function(){
+    $("#mi-ventana-modal #myModalLabel").html("Biblioteca");    
+    $("#mi-ventana-modal .modal-body").load("/paginas/modals/varios/index.html #biblioteca");
+  });  
+});
+</script>  
 
 
 <!-- ------------------------------------------------------------->             
