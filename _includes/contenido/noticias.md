@@ -1,5 +1,16 @@
 <div class="accordion-group">
   <div class="accordion-heading active">
+    <a class="accordion-toggle collapsed" id="link-ayuydasTablets2014" href="http://www.educa.jcyl.es/es/becas-alumnado/ayudas-adquisicion-dispositivos-digitales-tablets-2014-2015">
+      <em class="fa fa-plus icon-fixed-width"></em>
+      <div class="texto-actualidad">
+      Ayudas para las familias para la adquisición de dispositivos digitales (tablets)
+      </div>
+    </a>
+  </div>
+</div>
+
+<div class="accordion-group">
+  <div class="accordion-heading active">
     <a class="accordion-toggle collapsed" id="link-eleccionesConsejoEscolar-2014" data-toggle="modal" data-target="#ventanaModal">
       <em class="fa fa-plus icon-fixed-width"></em>
       <div class="texto-actualidad">
