@@ -5,21 +5,6 @@ layout: modal
 
 
 
-<div id="eleccionesConsejoEscolar-2014" markdown="1">
-* Acta de proclamación de candidatos ([página 1](https://drive.google.com/file/d/0B4jaZeMGL7HsLUdzUWtfTGFlNnM/view?usp=sharing) y [2](https://drive.google.com/file/d/0B4jaZeMGL7HsZU85Snh5NjZhazg/view?usp=sharing))
-* Sorteo de mesas electorales:
-  * [Mesas para alumnos](https://drive.google.com/file/d/0B4jaZeMGL7HsMDBiT3FkdjcyMmM/view?usp=sharing)
-  * [Mesas para profesores](https://drive.google.com/file/d/0B4jaZeMGL7HsQVcxaGRrRHJELUE/view?usp=sharing)
-  * [Mesas para padres y madres](https://drive.google.com/file/d/0B4jaZeMGL7HsenZqRWt0OHVaRUk/view?usp=sharing)
-* [Lista de candidaturas definitiva](https://drive.google.com/file/d/0B4jaZeMGL7HsYWlSNjRDQkJNRjg/view?usp=sharing)
-* [Lista de candidaturas provisional](https://drive.google.com/file/d/0B4jaZeMGL7HsZHVYNF8zRGdDZVk/view?usp=sharing)
-* [Acta de la sesión constitutiva de la Junta Electoral](https://drive.google.com/file/d/0B4jaZeMGL7HsbUVod0ZPREl5MjQ/view?usp=sharing)
-* [Convocatoria de elecciones](https://drive.google.com/file/d/0B4jaZeMGL7HseXdTNUIyNFNEbG8/view?usp=sharing)
-* [BOCYL 29/09/2014](https://drive.google.com/file/d/0B4jaZeMGL7Hsall3ZnZyNGk3U0k/view?usp=sharing) (Resolución de 16 de septiembre de 2014, de la Dirección General de Innovación Educativa y Formación del Profesorado, relativa al proceso para la elección y renovación de los miembros de los consejos escolares de los centros docentes sostenidos con fondos públicos a celebrar en el primer trimestre del curso escolar 2014/2015)
-</div>
-
-
-
 <div id="erasmusSolicitud-2014" markdown="1">
 Todos aquellos alumnos que deseen solicitar una beca Erasmus+ para el curso 2014-2015 deben descargar y rellenar el siguiuente documento y entregarlo antes de l 7 de octubre a la profesora responsable del programa, Julita González:
 
