@@ -8,3 +8,6 @@ url: "http://w3.iessanandres.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+include: ['_pages']
