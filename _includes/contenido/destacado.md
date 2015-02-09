@@ -366,13 +366,13 @@
             <img src="/imagenes/revista.jpg" alt="" class="img-responsive">
             <div class="magnifier">
                 <div class="buttons">
-                    <a class="st btn btn-default" href="http://www.flipgorilla.com/p/23023990364723680/show">Leer más</a>
+                    <a class="st btn btn-default" href="http://www.flipgorilla.com/p/23837411469428441/show">Leer más</a>
                 </div><!-- end buttons -->
             </div><!-- end magnifier -->
         </div><!-- end entry -->
         <div class="shop_desc">
             <div class="shop_title">
-                <a href="http://www.flipgorilla.com/p/23023990364723680/show"><span>Revista RIES</span></a>
+                <a href="http://www.flipgorilla.com/p/23837411469428441/show"><span>Revista RIES</span></a>
             </div>
         </div><!-- end shop_desc -->
     </div><!-- end item -->
