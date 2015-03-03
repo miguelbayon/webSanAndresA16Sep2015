@@ -17,13 +17,13 @@
             <img src="/imagenes/comeniusCuadrado.png" alt="" class="img-responsive">
             <div class="magnifier">
                 <div class="buttons">
-                    <a class="st btn btn-default" href="/paginas/comenius/">Leer más</a>
+                    <a class="st btn btn-default" href="/comenius/">Leer más</a>
                 </div><!-- end buttons -->
             </div><!-- end magnifier -->
         </div><!-- end entry -->
         <div class="shop_desc">
             <div class="shop_title">
-                <a href="/paginas/comenius/"><span>Comenius</span></a>
+                <a href="/comenius/"><span>Comenius</span></a>
             </div>
         </div><!-- end shop_desc -->
     </div><!-- end item -->
