@@ -1,6 +1,20 @@
 <div class="accordion-group">
   <div class="accordion-heading active">
     <a class="accordion-toggle collapsed" 
+       id="link-escuelas-invierno" 
+       href="http://goo.gl/8GlXHy">
+          <em class="fa fa-plus icon-fixed-width"></em>
+          <div class="texto-actualidad">
+            Escuelas de Invierno 2014-2015 en San Isidro
+          </div>
+    </a>
+  </div>
+</div>
+
+
+<div class="accordion-group">
+  <div class="accordion-heading active">
+    <a class="accordion-toggle collapsed" 
        id="link-convocatoria-ayudas-2015" 
        href="https://drive.google.com/folderview?id=0B4jaZeMGL7HsRWdvc2dHSTJwS0k&usp=sharing">
           <em class="fa fa-plus icon-fixed-width"></em>
