@@ -7,6 +7,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <!------------------------------------------------------------------------------------ -->
 <!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
 <!------------------------------------------------------------------------------------ -->
@@ -447,7 +456,38 @@ $(document).ready(function(){
 
 
 
+<!------------------------------------------------------------------------------------ -->
+<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
+<!------------------------------------------------------------------------------------ -->
 
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+    <div class="shop_item">
+        <div class="entry">
+            <img src="/imagenes/admision-2015-2016.jpg" alt="" class="img-responsive">
+            <div class="magnifier">
+                <div class="buttons">
+                    <a class="st btn btn-default" href="/proceso-admision-2015-2016/">Leer más</a>
+                </div><!-- end buttons -->
+            </div><!-- end magnifier -->
+        </div><!-- end entry -->
+        <div class="shop_desc">
+            <div class="shop_title">
+                <a href="/proceso-admision-2015-2016/"><span>Proceso de admisión</span></a>
+            </div>
+        </div><!-- end shop_desc -->
+    </div><!-- end item -->
+</div><!-- end col-lg-3 -->
+
+
+<!-- ------------------------------------------------------------->             
+<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
+<!-- ------------------------------------------------------------->  
+
+
+
+
+
+ 
 
        
 
