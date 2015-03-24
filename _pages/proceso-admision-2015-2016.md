@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: "/proceso-admision-2015-2016/"
-title:  "Proceso de admisión 2015-2016 para ESO y Bachillerato"
+title: "Proceso de admisión 2015-2016 para ESO y Bachillerato"
+published: true
 ---
-
 
 <style>
 img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Comenius"]  {
@@ -21,8 +21,7 @@ img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Com
 
 * RESOLUCIÓN de 16 de enero de 2015, de la Dirección General de Política Educativa Escolar, por la que se concreta la gestión del proceso de admisión del alumnado en los centros docentes de Castilla y León para cursar en 2015-2016 enseñanzas sostenidas con fondos públicos de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria o bachillerato. [Consultar](https://drive.google.com/open?id=0B4jaZeMGL7HsMGlQMmFUZXFKYmM&authuser=0)
 
-* CORRECCIÓN de errores de la Resolución de 16 de enero de 2015, de la Dirección General de Política Educativa Escolar, por la que se concreta la gestión del proceso de admisión del alumnado en los centros docentes de Castilla y León para cursar en
-2015-2016 enseñanzas sostenidas con fondos públicos de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria o bachillerato. [Consultar](https://drive.google.com/open?id=0B4jaZeMGL7HsMGlQMmFUZXFKYmM&authuser=0)
+* CORRECCIÓN de errores de la Resolución de 16 de enero de 2015, de la Dirección General de Política Educativa Escolar, por la que se concreta la gestión del proceso de admisión del alumnado en los centros docentes de Castilla y León para cursar en 2015-2016 enseñanzas sostenidas con fondos públicos de segundo ciclo de educación infantil, educación primaria, ESO o bachillerato. [Consultar](https://drive.google.com/open?id=0B4jaZeMGL7HsMGlQMmFUZXFKYmM&authuser=0)
 
 
 ## ¿Quienes pueden participar?
