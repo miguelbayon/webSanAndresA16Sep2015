@@ -26,6 +26,12 @@ img[alt="Mujer de mali"], img[alt="Recorrido"] {
 <section class="white-wrapper padding-top" id="contenido">
 <div class="container" style="max-width: 650px; margin: 20px auto 0px auto" markdown="1">
 
+# Contenido
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
 
 ## Objetivo del proyecto
 
@@ -84,6 +90,11 @@ Los voluntarios también debéis apuntaros para que podamos contar con vuestra c
 ### ¿Qué hago con el dinero recaudado?
 
 Una vez hayas terminado la carrera, en la línea de meta re certificarán en tu carné de corredor el número de vueltas completadas, y con ello debes ir recogiendo el dinero que te hayas ganado. Una vez lo tengas todo en tu poder, durante la semana del 13 al 17 de abril lo tienes que entregar, y cuando todo se haya recogido lo ingresaremos en la cuenta de la organización Save the Children para que se una al esfuerzo de los compañeros de otros muchos centros de España.
+
+
+### Fotografías
+
+* [Ver todas las fotografías relacionadas](https://plus.google.com/photos/113365110438555154039/albums/6121603675708775073)
 
 
 
