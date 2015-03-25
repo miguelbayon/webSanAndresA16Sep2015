@@ -25,8 +25,20 @@ img[alt="Mujer de mali"], img[alt="Recorrido"] {
 
 <section class="white-wrapper padding-top" id="contenido">
 <div class="container" style="max-width: 650px; margin: 20px auto 0px auto" markdown="1">
+
+
+## Objetivo del proyecto
+
+El proyecto "San Andrés Emprende" es una iniciativa puesta en marcha con el fin de estimular la creatividad y la iniciativa personal de los alumnos y que se enmarca dentro del Proyecto Interdisciplinar de Cultura Emprendora.
+
+Se trata de un plan de trabjao que implica a toda la comunidad educativa y en el que cada departamento, desde su ámbito de conocimiento científico, propone y desarrolla con sus alumnos actividades relacionadas con el tema. 
+
+El proyecto "San Andrés Emprende" prevé el desarrollo de actividades que tengan en cuenta aspectos como el aprendizaje cooperativo, la autonomía de los alumnos, fomentar la inventiva y la generación de ideas o favorecer la integración de las tecnologías de la información. 
+
+Una de las primeras cuestiones analizadas en el proyecto "San Andrés Emprende" son los derechos de la infancia y, en concreto, la realización del trabajo “El hambre en El Sahel”. Con este motivo se organiza, se organiza la I Carrera Solidaria "Kilometros de solidaridad" del IES San Andrés que tendrá lugar el viernes 27 de marzo de 2015 entre las 09.00 horas y las 11.00 horas.
+
  
-## Carrera solidaria "Kilometros de Solidaridad"
+## I Carrera solidaria "Kilometros de Solidaridad"
 
 ![Mujer de mali](/imagenes/carrera-solidaria.jpg)
 
@@ -34,9 +46,7 @@ img[alt="Mujer de mali"], img[alt="Recorrido"] {
 
 ![Logo Kilometros de solidaridad](/imagenes/logo-kilometros-de-solidaridad.gif)
 
-Cada año la ONG Save the Children organiza una campaña de ayuda dirigida a los niños de algún lugar en el que las necesidades vitales, educativas o sanitarias sean grandes. Este año lo que se recaude irá a parar a proyectos de desarrollo en el Sahel, más en concreto en Mali. 
-
-Desde el IES San Andrés queremos colaborar y aportar nuestro granito de arena a esta causa organizando una carrera solidaria a celebrar el viernes 27 de marzo de 2015 a las 9:00 horas.
+Cada año la ONG Save the Children organiza una campaña de ayuda dirigida a los niños de algún lugar en el que las necesidades vitales, educativas o sanitarias sean grandes. Este año lo que se recaude irá a parar a proyectos de desarrollo en el Sahel, más en concreto en Mali. Desde el IES San Andrés queremos colaborar y aportar nuestro granito de arena a esta causa.
 
 
 ### ¿Cómo puedo ayudar?
