@@ -33,7 +33,7 @@ img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Com
 ## Resumen del proceso
 
 * [Consultar cuadro resumen del proceso de admisión](https://drive.google.com/open?id=0B4jaZeMGL7HsS3JPNnJfeVVpMXM&authuser=0)
-* 
+
 
 ## Listado de baremaciones
 
