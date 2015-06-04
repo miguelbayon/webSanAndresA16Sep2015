@@ -34,7 +34,7 @@ img[alt="Mujer de mali"], img[alt="Recorrido"] {
 
 ## Formularios de matrícula
 
-* [1º ESO](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsUU9Yd1ZYaXNZUm8)
+Los formularios de matrícula estarán disponibles la segunda semana de junio aproximadamente.
 
 
 
