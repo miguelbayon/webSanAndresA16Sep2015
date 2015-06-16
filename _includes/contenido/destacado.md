@@ -6,7 +6,61 @@
 -->
 
 
+<!------------------------------------------------------------------------------------ -->
+<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
+<!------------------------------------------------------------------------------------ -->
 
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+    <div class="shop_item">
+        <div class="entry">
+            <img src="/imagenes/signup.jpg" alt="" class="img-responsive">
+            <div class="magnifier">
+                <div class="buttons">
+                    <a class="st btn btn-default" href="/matriculacion-2015-2016/">Leer más</a>
+                </div><!-- end buttons -->
+            </div><!-- end magnifier -->
+        </div><!-- end entry -->
+        <div class="shop_desc">
+            <div class="shop_title">
+                <a href="/matriculacion-2015-2016/"><span>Matriculación 2015/2016</span></a>
+            </div>
+        </div><!-- end shop_desc -->
+    </div><!-- end item -->
+</div><!-- end col-lg-3 -->
+
+
+<!-- ------------------------------------------------------------->             
+<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
+<!-- ------------------------------------------------------------->  
+
+
+
+<!------------------------------------------------------------------------------------ -->
+<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
+<!------------------------------------------------------------------------------------ -->
+
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+    <div class="shop_item">
+        <div class="entry">
+            <img src="/imagenes/libros.jpg" alt="" class="img-responsive">
+            <div class="magnifier">
+                <div class="buttons">
+                    <a class="st btn btn-default" href="/releo/">Leer más</a>
+                </div><!-- end buttons -->
+            </div><!-- end magnifier -->
+        </div><!-- end entry -->
+        <div class="shop_desc">
+            <div class="shop_title">
+                <a href="/releo/"><span>Programa Releo</span></a>
+            </div>
+        </div><!-- end shop_desc -->
+    </div><!-- end item -->
+</div><!-- end col-lg-3 -->
+
+
+<!-- ------------------------------------------------------------->             
+<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
+<!-- ------------------------------------------------------------->  
 
 
 
@@ -40,6 +94,32 @@
 
 
 
+<!------------------------------------------------------------------------------------ -->
+<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
+<!------------------------------------------------------------------------------------ -->
+
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+    <div class="shop_item">
+        <div class="entry">
+            <img src="/imagenes/admision-2015-2016.jpg" alt="" class="img-responsive">
+            <div class="magnifier">
+                <div class="buttons">
+                    <a class="st btn btn-default" href="/proceso-admision-2015-2016/">Leer más</a>
+                </div><!-- end buttons -->
+            </div><!-- end magnifier -->
+        </div><!-- end entry -->
+        <div class="shop_desc">
+            <div class="shop_title">
+                <a href="/proceso-admision-2015-2016/"><span>Proceso de admisión</span></a>
+            </div>
+        </div><!-- end shop_desc -->
+    </div><!-- end item -->
+</div><!-- end col-lg-3 -->
+
+
+<!-- ------------------------------------------------------------->             
+<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
+<!-- ------------------------------------------------------------->  
 
 
 
@@ -331,7 +411,7 @@
 <!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
 <!------------------------------------------------------------------------------------ -->
 
-
+<!--
 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
     <div class="shop_item">
         <div class="entry">
@@ -339,16 +419,16 @@
             <div class="magnifier">
                 <div class="buttons">
                     <a class="st btn btn-default" href="http://www.solclimp.com/">Leer más</a>
-                </div><!-- end buttons -->
-            </div><!-- end magnifier -->
-        </div><!-- end entry -->
+                </div>
+            </div>
+        </div>
         <div class="shop_desc">
             <div class="shop_title">
                 <a href="http://www.solclimp.com/"><span>SolClimp</span></a>
             </div>
-        </div><!-- end shop_desc -->
-    </div><!-- end item -->
-</div><!-- end col-lg-3 -->
+        </div>
+    </div>
+</div>-->
 
 
 
@@ -485,62 +565,11 @@ $(document).ready(function(){
 
 
 
-<!------------------------------------------------------------------------------------ -->
-<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
-<!------------------------------------------------------------------------------------ -->
-
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-    <div class="shop_item">
-        <div class="entry">
-            <img src="/imagenes/admision-2015-2016.jpg" alt="" class="img-responsive">
-            <div class="magnifier">
-                <div class="buttons">
-                    <a class="st btn btn-default" href="/proceso-admision-2015-2016/">Leer más</a>
-                </div><!-- end buttons -->
-            </div><!-- end magnifier -->
-        </div><!-- end entry -->
-        <div class="shop_desc">
-            <div class="shop_title">
-                <a href="/proceso-admision-2015-2016/"><span>Proceso de admisión</span></a>
-            </div>
-        </div><!-- end shop_desc -->
-    </div><!-- end item -->
-</div><!-- end col-lg-3 -->
-
-
-<!-- ------------------------------------------------------------->             
-<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
-<!-- ------------------------------------------------------------->  
 
 
 
 
-<!------------------------------------------------------------------------------------ -->
-<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
-<!------------------------------------------------------------------------------------ -->
 
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-    <div class="shop_item">
-        <div class="entry">
-            <img src="/imagenes/signup.jpg" alt="" class="img-responsive">
-            <div class="magnifier">
-                <div class="buttons">
-                    <a class="st btn btn-default" href="/matriculacion-2015-2016/">Leer más</a>
-                </div><!-- end buttons -->
-            </div><!-- end magnifier -->
-        </div><!-- end entry -->
-        <div class="shop_desc">
-            <div class="shop_title">
-                <a href="/matriculacion-2015-2016/"><span>Matriculación 2015/2016</span></a>
-            </div>
-        </div><!-- end shop_desc -->
-    </div><!-- end item -->
-</div><!-- end col-lg-3 -->
-
-
-<!-- ------------------------------------------------------------->             
-<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
-<!-- ------------------------------------------------------------->  
  
 
 
@@ -577,32 +606,7 @@ $(document).ready(function(){
 
 
 
-<!------------------------------------------------------------------------------------ -->
-<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
-<!------------------------------------------------------------------------------------ -->
 
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-    <div class="shop_item">
-        <div class="entry">
-            <img src="/imagenes/libros.jpg" alt="" class="img-responsive">
-            <div class="magnifier">
-                <div class="buttons">
-                    <a class="st btn btn-default" href="/releo/">Leer más</a>
-                </div><!-- end buttons -->
-            </div><!-- end magnifier -->
-        </div><!-- end entry -->
-        <div class="shop_desc">
-            <div class="shop_title">
-                <a href="/releo/"><span>Programa Releo</span></a>
-            </div>
-        </div><!-- end shop_desc -->
-    </div><!-- end item -->
-</div><!-- end col-lg-3 -->
-
-
-<!-- ------------------------------------------------------------->             
-<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
-<!-- ------------------------------------------------------------->  
        
 
 
