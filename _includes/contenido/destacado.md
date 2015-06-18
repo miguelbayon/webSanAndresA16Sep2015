@@ -185,45 +185,6 @@
 <!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
 <!-- ------------------------------------------------------------->  
 
-<!------------------------------------------------------------------------------------ -->
-<!--------------------------  INICIO ELEMENTO DESTACADO ------------------------------ -->
-<!------------------------------------------------------------------------------------ -->
-
-<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
-    <div class="shop_item">
-        <div class="entry">
-            <img src="/imagenes/alhambra.jpg" alt="" class="img-responsive">
-            <div class="magnifier">
-                <div class="buttons">
-                    <a class="st btn btn-default" href="/viaje-fin-de-curso-2015/">Leer más</a>
-                </div>
-            </div>
-        </div>
-        <div class="shop_desc">
-            <div class="shop_title">
-                <a href="/viaje-fin-de-curso-2015/"><span>Viaje fin de curso</span></a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- ------------------------------------------------------------->             
-<!-- ----------------- FIN ELEMENTO DESTACADO  ------------------->       
-<!-- ------------------------------------------------------------->  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
