@@ -27,7 +27,7 @@ img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Com
 
 ### Listado de adjudicaciones de plazas
 
-* [Consultar listado de adjudicaciones de plazas para ESO y Bachillerato para el curso 2015-2016](www.googledrive.com/host/0B4jaZeMGL7HsY1JvNkhnX2tzUF8zdm03VzNIcmlBOEF1dGhN)
+* [Consultar listado de adjudicaciones de plazas para ESO y Bachillerato para el curso 2015-2016](http://www.googledrive.com/host/0B4jaZeMGL7HsY1JvNkhnX2tzUF8zdm03VzNIcmlBOEF1dGhN)
 
 ### Legislación que regula el proceso
 
