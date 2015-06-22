@@ -84,7 +84,7 @@ img[alt="Mujer de mali"], img[alt="Recorrido"] {
 
 ### 1º Bachillerato Ciencias LOMCE
 
-* [Instrucciones](www.googledrive.com/host/0B4jaZeMGL7HsTE14NXpkaWowT0E)
+* [Instrucciones](http://www.googledrive.com/host/0B4jaZeMGL7HsTE14NXpkaWowT0E)
 * [Solicitud](https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HseXNmaHZsdHhwdHc)
 * [Autorización de utilización del servicio de transporte escolar](http://www.googledrive.com/host/0B4jaZeMGL7HsRDNNeXcyaUJBR2c)
 * __Muy importante__: asegurarse de que la fecha indicada al rellenar la matrícula es posterior al 20 de junio.
