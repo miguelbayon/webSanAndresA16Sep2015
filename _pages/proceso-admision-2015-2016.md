@@ -25,6 +25,10 @@ img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Com
 
 ## ESO y Bachillerato
 
+### Listado de adjudicaciones de plazas
+
+* [Consultar listado de adjudicaciones de plazas para ESO y Bachillerato para el curso 2015-2016](www.googledrive.com/host/0B4jaZeMGL7HsY1JvNkhnX2tzUF8zdm03VzNIcmlBOEF1dGhN)
+
 ### Legislación que regula el proceso
 
 * RESOLUCIÓN de 16 de enero de 2015, de la Dirección General de Política Educativa Escolar, por la que se concreta la gestión del proceso de admisión del alumnado en los centros docentes de Castilla y León para cursar en 2015-2016 enseñanzas sostenidas con fondos públicos de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria o bachillerato. [Consultar](https://drive.google.com/open?id=0B4jaZeMGL7HsMGlQMmFUZXFKYmM&authuser=0)
@@ -50,7 +54,7 @@ img[alt="ZeroMeeting"], img[alt="Drops"], img[alt="Banderas"], img[alt="Logo Com
 
 ## Ciclos Formativos
 
-### Legislacíón que regula el proceso
+### Legislación que regula el proceso
 
 * RESOLUCIÓN de 20 de mayo de 2015, de la Dirección General de Formación Profesional y Régimen Especial, por la que se establece el calendario del proceso de admisión del alumnado en centros docentes que impartan enseñanzas, sostenidas con fondos públicos, de formación profesional en la Comunidad de Castilla y León, así como las modalidades de bachillerato que dan prioridad para cursar los correspondientes ciclos formativos LOE, para el curso 2015/2016. [Consultar](http://bocyl.jcyl.es/boletines/2015/05/29/pdf/BOCYL-D-29052015-7.pdf)
 
