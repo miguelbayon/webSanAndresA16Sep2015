@@ -2,7 +2,7 @@
   <div class="accordion-heading active">
     <a class="accordion-toggle collapsed" 
        id="link-adjudicaciones-2015" 
-       href="www.googledrive.com/host/0B4jaZeMGL7HsY1JvNkhnX2tzUF8zdm03VzNIcmlBOEF1dGhN">
+       href="http://www.googledrive.com/host/0B4jaZeMGL7HsY1JvNkhnX2tzUF8zdm03VzNIcmlBOEF1dGhN">
           <em class="fa fa-plus icon-fixed-width"></em>
           <div class="texto-actualidad">
             Listados de adjudicaciones de plazas para el curso 2015-2016 en ESO y Bachillerato
