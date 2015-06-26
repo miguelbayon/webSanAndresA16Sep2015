@@ -17,11 +17,24 @@ title:  "Revista Ries"
         	<div class="row">
                 <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 single-portfolio">
 
+
+
+<div class="col-sm-4" markdown="1">
+
+### Año II, número 3 (julio 2015)
+
+[Consúltala online](http://t.co/9rpDIZFAit) o [descárgala en PDF](https://drive.google.com/file/d/0B4jaZeMGL7HsQ0luU3VNWHNkbUU/view?usp=sharing)
+
+<a href="http://www.flipgorilla.com/p/23837411469428441/show"><img class="img-responsive" src="/imagenes/RIES3.png" style="border: 1px solid #CCC"></a>                
+
+</div><!-- end col-sm-5 --> 
+
+
 <div class="col-sm-4" markdown="1">
 
 ### Año II, número 2 (enero 2015)
 
-[Consúltala online](http://www.flipgorilla.com/p/23837411469428441/show) o [descárgala en PDF](https://drive.google.com/open?id=0B4jaZeMGL7Hscmd4cDgtV2pleTA&authuser=0)
+[Descárgala en PDF](https://drive.google.com/open?id=0B4jaZeMGL7Hscmd4cDgtV2pleTA&authuser=0)
 
 <a href="http://www.flipgorilla.com/p/23837411469428441/show"><img class="img-responsive" src="/imagenes/RIES2.png" style="border: 1px solid #CCC"></a>
 
