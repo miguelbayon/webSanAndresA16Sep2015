@@ -5,7 +5,7 @@
        href="https://drive.google.com/uc?export=download&id=0B4jaZeMGL7HsX2V4czVwbFpXMjg">
           <em class="fa fa-plus icon-fixed-width"></em>
           <div class="texto-actualidad">
-            Listados definitivos de alumnos admitidos en Ciclos Formativos para el curso 2015-2016
+            Listados definitivos de alumnos admitidos en Ciclos Formativos para el Curso 2015-2016
           </div>
     </a>
   </div>
@@ -312,6 +312,3 @@ $(document).ready(function(){
   });
 });
 </script>
-
-
-
